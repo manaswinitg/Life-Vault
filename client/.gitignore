@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+
+# Environment files
+.env
+server/.env
+
+# Node
+node_modules/
+client/node_modules/
+
+# Build files
+dist/
+build/
+
+# Vite
+client/dist/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
